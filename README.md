@@ -1,7 +1,7 @@
 # uts-machine-learning-241011400285
-Nama: Hesti Novyanti
-NIM: 241011400285
-Kelas: 05 TPLM 005 (REG B)
+Hesti Novyanti
+241011400285
+05 TPLM 005 (REG B)
 
 ## Ringkasan Hasil
 - RANDOM_STATE: 85
